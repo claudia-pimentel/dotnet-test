@@ -6,7 +6,7 @@ namespace ClassLib
     {
         public int Double(int number) 
         {
-            throw new NotImplementedException("Please create a test first");
+            return number * 2;
         } 
     }
 }

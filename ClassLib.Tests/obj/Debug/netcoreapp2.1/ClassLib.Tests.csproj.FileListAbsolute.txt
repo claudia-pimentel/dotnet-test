@@ -12,3 +12,6 @@ c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\o
 c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.AssemblyInfo.cs
 c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.dll
 c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.pdb
+C:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\ClassLib.dll
+C:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\ClassLib.pdb
+C:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.csproj.CopyComplete
