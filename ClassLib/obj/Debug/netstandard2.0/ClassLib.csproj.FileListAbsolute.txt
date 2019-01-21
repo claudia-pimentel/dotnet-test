@@ -1,0 +1,9 @@
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\bin\Debug\netstandard2.0\ClassLib.deps.json
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\bin\Debug\netstandard2.0\ClassLib.dll
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\bin\Debug\netstandard2.0\ClassLib.pdb
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\obj\Debug\netstandard2.0\ClassLib.csprojAssemblyReference.cache
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\obj\Debug\netstandard2.0\ClassLib.csproj.CoreCompileInputs.cache
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfoInputs.cache
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfo.cs
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\obj\Debug\netstandard2.0\ClassLib.dll
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib\obj\Debug\netstandard2.0\ClassLib.pdb
