@@ -1,0 +1,14 @@
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\ClassLib.Tests.deps.json
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\ClassLib.Tests.runtimeconfig.json
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\ClassLib.Tests.runtimeconfig.dev.json
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\ClassLib.Tests.dll
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\bin\Debug\netcoreapp2.1\ClassLib.Tests.pdb
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.csprojAssemblyReference.cache
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.csproj.CoreCompileInputs.cache
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.AssemblyInfoInputs.cache
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.AssemblyInfo.cs
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.dll
+c:\Users\f.tachikawa.araki\Documents\github\dotnetcore-testproj\ClassLib.Tests\obj\Debug\netcoreapp2.1\ClassLib.Tests.pdb
